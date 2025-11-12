@@ -173,6 +173,6 @@ Module['FS_createPath']('/Galtons_board/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 99, "filename": "/UE4CommandLine.txt"}, {"start": 99, "audio": 0, "end": 32817481, "filename": "/Galtons_board/Content/Paks/Galtons_board-HTML5.pak"}], "remote_package_size": 32817481, "package_uuid": "ea065384-1e73-4085-97f2-147e68c473ce"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 99, "filename": "/UE4CommandLine.txt"}, {"start": 99, "audio": 0, "end": 32838982, "filename": "/Galtons_board/Content/Paks/Galtons_board-HTML5.pak"}], "remote_package_size": 32838982, "package_uuid": "2e0b10dd-5373-4634-b625-66a028820eee"});
 
 })();
